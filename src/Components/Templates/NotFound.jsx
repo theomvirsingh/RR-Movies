@@ -11,8 +11,8 @@ const NotFound = () =>{
             >
             </Link>
             <div className="flex items-center justify-center flex-col">
-                <img className="object cover" src="src\assets\logos\error_404.gif" alt="" />
-                <p className="text-white text-6xl font-bold">NOT FOUND</p>
+                <img className="object cover" src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" alt="" />
+                {/* <p className="text-white text-6xl font-bold">NOT FOUND</p> */}
             </div>
         </div>
     )

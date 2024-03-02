@@ -5,7 +5,7 @@ function SideBar(){
     return (
         <div className="w-[20%] h-full border-r-2 border-zinc-200 p-10">
             <div className="flex gap-2 items-center justify-center cursor-pointer">
-                <img className="w-[70px] h-[70px]" src="src\assets\logos\RR Movies-logos_white.png" alt="" />
+                <img className="w-[70px] h-[70px]" src="https://static.thenounproject.com/png/780122-200.png" alt="" />
                 <h1 className="text-white text-2xl font-bold">RR Movies</h1>
             </div>
             <nav className="flex flex-col text-zinc-400 text-xl">
